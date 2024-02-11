@@ -1,0 +1,6 @@
+raylib-py
+PyOpenGL
+PyOpenGL_accelerate
+imgui[full]
+psutil
+lupa
